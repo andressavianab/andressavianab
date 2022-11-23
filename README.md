@@ -4,15 +4,15 @@
 - contato: andressavibatista@gmail.com
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Andressa-J" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-          
+  <img align="center" alt="Andressa-J" width="4%" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  
   </div>
   
   ##
 
 <div>
  <a href="https://www.linkedin.com/in/andressa-batista-902722229/" target="_blank">
-  <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <img width="3%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   
   </div>
   
