@@ -1,4 +1,4 @@
-- Olá! Eu sou a Andressa 
+- olá! eu sou a Andressa 
 - estudando Java
 - pronomes: ela/dela
 - contato: andressavibatista@gmail.com
