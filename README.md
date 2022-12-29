@@ -5,7 +5,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Andressa-J" src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
   <img align="center" alt="Andressa-j" src="https://img.icons8.com/color/48/null/css3.png"/>
-  <img align="center" alt="Andressa-J" width="200" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img align="center" alt="Andressa-J" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
   </div>
   
   ##
