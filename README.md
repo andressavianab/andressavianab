@@ -17,6 +17,12 @@
  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRwQZldnTZRKgBFWpXQxgqdjWJSgmbkMswVCVFrKsTQsVVFnQnJfzbPlSWHqHVKtGKFdPfsr"      target="_blank">
  <img src="https://img.icons8.com/color/48/null/gmail--v1.png"/>
 </div>
+   
+   ##
+   
+[![andressavianab](https://github-readme-stats.vercel.app/api?username=andressavianab&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![andressavianab](https://github-readme-stats.vercel.app/api/top-langs/?username=andressavianab&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 <!---
 andressavianab/andressavianab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
