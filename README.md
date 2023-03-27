@@ -41,7 +41,7 @@
    👩‍💻 Front end developer
   </p>
    <p>
-   📖 Currently learning DOM, localStorage and user interactivity
+   📖 Currently learning react
   </p>
    <p>
    🫀 Technology, bodybuilding and music
