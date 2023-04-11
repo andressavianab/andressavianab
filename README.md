@@ -1,5 +1,6 @@
-<h1>Hello world! I'm Andressa 👋</h1>
 
+<h1>Hello world! I'm Andressa</h1>
+  
 <span>
   
    [![andressavianab](https://github-readme-stats.vercel.app/api?username=andressavianab&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
@@ -13,6 +14,15 @@
   <img align="center" alt="Andressa-J" src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
   <img align="center" alt="Andressa-j" src="https://img.icons8.com/color/48/null/css3.png"/>
   <img align="center" alt="Andressa-J" src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
+  <img align="center" alt="Andressa-J" src="https://img.icons8.com/color/48/null/typescript--v1.png"/>
+  </div>
+ </details>
+ 
+ <details>
+ <summary>Frameworks</summary>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Andressa-J" src="https://img.icons8.com/external-others-amoghdesign/48/null/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png"/>
+    <img align="center" alt="Andressa-J" src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
   </div>
  </details>
  
