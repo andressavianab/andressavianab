@@ -1,11 +1,5 @@
 
 <h1>Hello world! I'm Andressa</h1>
-  
-<span>
-  
-   [![andressavianab](https://github-readme-stats.vercel.app/api?username=andressavianab&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-  
-</span>
 
 <h2> 🧠 Skills: </h2>
 <details>
