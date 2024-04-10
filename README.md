@@ -27,9 +27,6 @@
    👩‍💻 Fullstack developer
   </p>
    <p>
-   📖 Currently learning nodejs
-  </p>
-   <p>
    🫀 Technology, bodybuilding and music
   </p>
  </div>
