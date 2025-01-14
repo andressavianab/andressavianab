@@ -1,37 +1,40 @@
+<h2 align="left">Oi 👋! Meu nome é Andressa.</h2>
 
-<h1>Hey! I'm Andressa</h1>
+###
 
-<h2> 🧠 Technologies and tools: </h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andressavianab&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andressavianab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
- <div style="display: inline_block"><br>
-   <img align="center" alt="Andressa-J" src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
-   <img align="center" alt="Andressa-J" src="https://img.icons8.com/color/48/null/typescript--v1.png"/>
-   <img align="center" alt="Andressa-J" src="https://img.icons8.com/color/48/null/nodejs--v1.png"/>
-   <img align="center" alt="Andressa-J" src="https://img.icons8.com/color/48/null/mysql--v1.png"/>
-   <img align="center" alt="Andressa-J" src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
-   <img align="center" alt="Andressa-j" src="https://img.icons8.com/color/48/null/css3.png"/>
-   <img align="center" alt="Andressa-J" src="https://img.icons8.com/color/48/null/docker--v1.png"/>
-   <img align="center" alt="Andressa-J" src="https://img.icons8.com/external-others-amoghdesign/48/null/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png"/>
-   <img align="center" alt="Andressa-J" src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
-   <img align="center" alt="Andressa-J" src="https://img.icons8.com/color/48/null/git.png"/>
-   <img align="center" alt="Andressa-J" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
- </div>
+###
 
-   
- <h2>🌠 About me:</h2>
- <div style="display: flex; flex-direction: column;">
-  <p>
-   🤵‍♀️ Andressa, 19 years old
-  </p>
-   <p>
-   👩‍💻 Fullstack developer
-  </p>
-   <p>
-   🫀 Technology, bodybuilding and music
-  </p>
- </div>
-  
-<!---
-andressavianab/andressavianab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/andressavianab/andressavianab/output/snake.svg" alt="Snake animation" />
+
+###
